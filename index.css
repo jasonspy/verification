@@ -1,5 +1,5 @@
 body {
-    background-image: url(./world1.jpg);
+    background-image: url(./8c98994518b575bfd8c949e91d20548b.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -11,9 +11,13 @@ body {
     margin: 1rem;
     color: rgb(10, 10, 10);
     text-align: center;
-    margin-top: 2.6rem;
+    margin-top: 5rem;
     border-radius: 1rem;
     
+}
+
+.header img {
+    width: 7rem;
 }
 .ver {
    text-align: center;
@@ -41,14 +45,15 @@ body {
 .button {
   cursor: pointer;
   /* position: relative; */
-  padding: 1vh 30%;
-  font-size: 10px;
-  color: rgb(248, 248, 248);
+  /* padding: 1vh 30%; */
+  font-size: 12px;
+  width: 100%;
+  color: rgb(0, 0, 0);
   border: 2px solid rgb(244, 244, 244);
   border-radius: 34px;
-  background-color: transparent;
+  background-color: green;
   font-weight: 600;
-  margin-left: 2.5rem;
+  /* margin-left: 2.5rem; */
   margin-top: 3rem;
   transition: all 0.3s cubic-bezier(0.23, 1, 0.320, 1);
   overflow: hidden;
