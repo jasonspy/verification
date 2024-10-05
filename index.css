@@ -45,7 +45,7 @@ body {
 .button {
   cursor: pointer;
   /* position: relative; */
-  /* padding: 1vh 30%; */
+/*   padding: 1vh 30%; */
   font-size: 12px;
   width: 100%;
   color: rgb(0, 0, 0);
@@ -61,6 +61,7 @@ body {
 .button a {
     text-decoration: none;
     color: white;
+    padding: 2rem;
     text-align: center;
 }
 
